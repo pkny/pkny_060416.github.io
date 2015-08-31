@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               PKNY
-tagline:             'Blah Blah Blah Yeah!'
+tagline:             Blah Blah Blah Yeah!
 description:         'Just another bunch of word salads served up on the Internet's kitchen table...'
 url:                 http://lanyon.getpoole.com
 baseurl:             'http://pkny.github.io'
